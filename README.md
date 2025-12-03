@@ -16,3 +16,8 @@
 ---
 마지막으로 3차원 그래프로 시각화하여
 독립변수와 종속변수간의 관계에 관해 나타내었습니다.
+
+<p align="center">
+<img width="70%" alt="Image" src="https://github.com/user-attachments/assets/8e65b29e-46d3-4f06-bee9-14011a78ee6a" />
+<img width="70%" alt="Image" src="https://github.com/user-attachments/assets/b40ad94f-7d23-4c0b-b7e9-ddd744465d87" />
+<img width="70%" alt="Image" src="https://github.com/user-attachments/assets/4e57d6e5-7a31-4151-83b7-a4e08ea92ad2" />
