@@ -48,7 +48,8 @@
 아래의 방식으로 흐름을 메모장에 써두는 연습을 하면 전체적인 흐름을 놓치지 않고 내용도 굉장히쉽게 느껴졌던것 같습니다.
 
 <div>
-<img width="485" height="807" alt="image" src="https://github.com/user-attachments/assets/b8673ce3-d52f-489c-a594-7cbfc5db2cb2" />
+<img width="577" height="927" alt="image" src="https://github.com/user-attachments/assets/bd23292b-831a-49e9-930f-f54dd2c8f70a" />
+
 </div>
 
 
